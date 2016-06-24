@@ -1,0 +1,19 @@
+{
+  "name": "almacendeyuca",
+  "version": "1.0.0",
+  "description": "Almacen de yuca",
+  "main": "index.js",
+  "dependencies": {
+    "engine.io": "^1.6.9",
+    "engine.io-client": "^1.6.9",
+    "eureca.io": "^0.6.42"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
